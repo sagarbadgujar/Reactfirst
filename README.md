@@ -1,3 +1,3 @@
 # Reactfirst
 my first react repo
-Author- Sagar Badgujar
+Author- Sagar Badgujar (Developer)
